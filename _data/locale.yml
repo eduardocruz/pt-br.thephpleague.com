@@ -1,6 +1,6 @@
 name: 'A Liga dos Pacotes Extraordinários'
 meta_description: 'Nosso objetivo é desenvolver pacotes de PHP  com a melhor qualidade possível, utilizando ferramentas modernas, padrões e práticas para distribuir, testar e fortalecer o código.'
-website: 'http://thephpleague.com'
+website: 'http://pt-br.thephpleague.com'
 google_analytics_tracking_id: 'UA-46050814-1'
 menu:
     packages:
@@ -19,12 +19,14 @@ languages:
     title: 'Idioma'
     current: 'Português'
     available:
-      - name: 'Inglês'
-        website: 'http://www.thephpleague.com'
-      - name: 'Francês'
-        website: 'http://fr.thephpleague.com'
-      - name: 'Espanhol'
+      - name: 'English'
+        website: 'http://thephpleague.com'
+      - name: 'Deutsch'
+        website: 'http://de.thephpleague.com'
+      - name: 'Español'
         website: 'http://es.thephpleague.com'
+      - name: 'Français'
+        website: 'http://fr.thephpleague.com'
 intro:
     description: 'A Liga dos Pacotes Extraordinários é um grupo de desenvolvedores que se uniu para construir, pacotes PHP sólidos e bem testados, utilizando modernos padrões de codificação.'
     feature_1: 'Seguimos as normas do <a href="http://www.php-fig.org"> PHP-FIG </a>.'
