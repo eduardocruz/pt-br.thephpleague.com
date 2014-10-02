@@ -27,7 +27,7 @@
 
 - name: Event
   repo: event
-  website: http://github.com/thephpleague/event
+  website: http://event.thephpleague.com
   complete: true
   description: Registre e escute eventos na sua aplicação
   author:
