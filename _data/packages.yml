@@ -2,7 +2,7 @@
   repo: climate
   website: http://climate.thephpleague.com
   complete: true
-  description: Terminal output made easy
+  description: Saída do Terminal de maneira fácil
   author:
     name: Joe Tannenbaum
     username: joetannenbaum
@@ -11,7 +11,7 @@
   repo: color-extractor
   website: https://github.com/thephpleague/color-extractor
   complete: true
-  description: Extract colors from an image
+  description: Extrai cores de uma imagem
   author:
     name: Mathieu Lechat
     username: MatTheCat
@@ -20,7 +20,7 @@
   repo: csv
   website: http://csv.thephpleague.com
   complete: true
-  description: CSV data manipulation made easy
+  description: Manipulação de dados CSV de forma fácil
   author:
     name: Ignace Nyamagana Butera
     username: nyamsprod
@@ -29,7 +29,7 @@
   repo: event
   website: http://github.com/thephpleague/event
   complete: true
-  description: Register and listen for events in your app
+  description: Registre e escute eventos na sua aplicação
   author:
     name: Frank de Jonge
     username: FrenkyNet
@@ -38,7 +38,7 @@
   repo: factory-muffin
   website: http://factory-muffin.thephpleague.com
   complete: true
-  description: Enables the rapid creation of objects for testing
+  description: Habilite a criação rápida de objetos para testes
   author:
     name: Scott Robertson
     username: scottrobertson
@@ -47,7 +47,7 @@
   repo: flysystem
   website: http://flysystem.thephpleague.com
   complete: true
-  description: Abstraction for local and remote filesystems
+  description: Abstração para sistemas de arquivos locais e remotos
   author:
     name: Frank de Jonge
     username: FrenkyNet
@@ -56,7 +56,7 @@
   repo: fractal
   website: http://fractal.thephpleague.com
   complete: true
-  description: Output complex, flexible, RESTful data structures
+  description: Represente estrutura de dados RESTFul complexas e flexíveis
   author:
     name: Phil Sturgeon
     username: philsturgeon
@@ -65,7 +65,7 @@
   repo: geotools
   website: https://github.com/thephpleague/geotools
   complete: true
-  description: Perform geo-related tasks
+  description: Realize tarefas geo-localizadas
   author:
     name: Antoine Corcy
     username: toin0u
@@ -74,7 +74,7 @@
   repo: monga
   website: https://github.com/thephpleague/monga
   complete: true
-  description: Simple and swift MongoDB abstraction
+  description: Abastração simples e rápida para o MongoDB
   author:
     seeking: https://groups.google.com/forum/#!forum/thephpleague
 
@@ -82,7 +82,7 @@
   repo: oauth1-client
   website: https://github.com/thephpleague/oauth1-client
   complete: true
-  description: Integrate with OAuth 1.0 providers
+  description: Integre com provedores OAuth 1.0
   author:
     name: Ben Corlett
     username: bencorlett
@@ -91,7 +91,7 @@
   repo: oauth2-server
   website: http://oauth2.thephpleague.com
   complete: true
-  description: Build an OAuth 2.0 server
+  description: Crie um servidor OAuth 2.0
   author:
     name: Alex Bilbie
     username: alexbilbie
@@ -100,7 +100,7 @@
   repo: oauth2-client
   website: https://github.com/thephpleague/oauth2-client
   complete: false
-  description: Integrate with OAuth 2.0 providers
+  description: Integre com provedores OAuth 2.0
   author:
     name: Alex Bilbie
     username: alexbilbie
@@ -109,7 +109,7 @@
   repo: omnipay
   website: https://github.com/thephpleague/omnipay
   complete: true
-  description: Multi-gateway payment processing library
+  description: Biblioteca de processamento de pagamentos Multi-gateway
   author:
     name: Kayla Daniels
     username: kayladnls
@@ -118,7 +118,7 @@
   repo: plates
   website: http://platesphp.com
   complete: true
-  description: Native PHP template system
+  description: Sistema de templates nativo em PHP
   author:
     name: Jonathan Reinink
     username: reinink
@@ -127,7 +127,7 @@
   repo: phpunit-coverage-listener
   website: https://github.com/thephpleague/phpunit-coverage-listener
   complete: true
-  description: Report code coverage stats to third-party services
+  description: Relatório de estatísticas de cobertura de código para serviços de terceiros
   author:
     name: Taufan Aditya
     username: toopay
@@ -136,7 +136,7 @@
   repo: shunt
   website: https://github.com/thephpleague/shunt
   complete: true
-  description: Execute SSH commands on remote machines
+  description: Execute comandas SSH em máquinas remotas
   author:
     name: Taufan Aditya
     username: toopay
@@ -145,7 +145,7 @@
   repo: stack-attack
   website: https://github.com/thephpleague/stack-attack
   complete: false
-  description: StackPHP Middleware based on Rack::Attack
+  description: Middleware StackPHP baseado no Rack::Attack
   author:
     name: Don Gilbert
     username: dongilbert
@@ -154,7 +154,7 @@
   repo: stack-robots
   website: https://github.com/thephpleague/stack-robots
   complete: true
-  description: A robots.txt StackPHP Middleware
+  description: Um StackPHP Middleware para robots.txt
   author:
     name: Don Gilbert
     username: dongilbert
@@ -163,7 +163,7 @@
   repo: statsd
   website: https://github.com/thephpleague/statsd
   complete: true
-  description: Library for working with StatsD
+  description: Biblioteca para trabalhar com StatsD
   author:
     name: Marc Qualie
     username: marcqualie
@@ -172,7 +172,7 @@
   repo: url
   website: http://url.thephpleague.com
   complete: true
-  description: URL manipulation made easy
+  description: Manipulação de URL manipulation de forma fácil
   author:
     name: Ignace Nyamagana Butera
     username: nyamsprod
