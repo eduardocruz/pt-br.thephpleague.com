@@ -42,7 +42,7 @@ packages:
     footnote: 'pacote em desenvolvimento'
 quailty:
     title: 'Nossa Definição de Qualidade'
-    introduction: 'Pergunte a 100 desenvolvedores o que define um pacote incrível em PHP e você vai ter um monte de respostas diferentes. Isso também soa como uma tarefa muito longa e chata, então nós criamos uma lista de regras que <em> nós </ em> achamos que torna um pacote incrível.'
+    introduction: 'Pergunte a 100 desenvolvedores o que define um pacote incrível em PHP e você vai ter um monte de respostas diferentes. Isso também soa como uma tarefa muito longa e chata, então nós criamos uma lista de regras que <em> nós </em> achamos que torna um pacote incrível.'
     button: 'Veja a nossa estrutura padrão para um projeto'
     rules:
         - 'Use <code>League</code> como o namespace do autoloader <a href="http://www.php-fig.org/psr/psr-4/">PSR-4</a>. Coloque o código na pasta <code>src</code>.'
